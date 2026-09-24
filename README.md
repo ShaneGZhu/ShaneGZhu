@@ -3,7 +3,7 @@
 **ML Systems Engineer | High-Performance Computing Enthusiast**  
 *Specializing in scalable RL Infrastructure and high-throughput LLM Inference.*
 
-I am a developer deeply passionate about **AI Infrastructure**, with a primary focus on **Reinforcement Learning (RL) Frameworks** and **SGLang**. My goal is to make distributed training and inference as fast and scalable as possible, diving deep into the intersection of machine learning and systems.
+I am a developer deeply passionate about **AI Infrastructure**, with a primary focus on **Reinforcement Learning Frameworks** and **SGLang**. My goal is to make distributed training and inference as fast and scalable as possible, diving deep into the intersection of machine learning and systems.
 
 ### 🚀 What I Do
 
